@@ -33,7 +33,7 @@ TREEX      = treex -L$(LANGCODE)
 # -q 'all.q@*,ms-all.q@*,troja-all.q@*'
 # --queue=troja-all.q
 # --queue=ms-all.q,troja-all.q (???)
-QTREEX     = treex -p --queue=ms-all.q --jobs 100 --priority=-50 -L$(LANGCODE)
+QTREEX     = treex -L$(LANGCODE)#treex -p --queue=ms-all.q --jobs 100 --priority=-50 -L$(LANGCODE)
 IMPORTX    = Read::CoNLLX lines_per_doc=100 sid_within_feat=1
 IMPORTU    = Read::CoNLLU lines_per_doc=100
 WRITE0     = Write::Treex file_stem='' compress=0
@@ -123,7 +123,7 @@ prague_to_ud:
 	    $(SCEN2) \
 	    Write::CoNLLU print_zone_id=0 substitute={$(SUBDIR1)}{$(SUBDIRCU)} compress=1 \
 	    Write::Treex substitute={$(SUBDIRCU)}{$(SUBDIR2)} compress=0
-	../export_ud.sh $(UDCODE) $(UDNAME)
+	#../export_ud.sh $(UDCODE) $(UDNAME)
 
 # This goal exports the harmonized trees in the CoNLL-U format, which is more useful for ordinary users.
 export_conllu:
