@@ -116,7 +116,7 @@ orig_to_ud:
 ###!!! Due to a bug in Treex::Core::Node::Interset we must write CoNLLU before Treex.
 ###!!! After Write::Treex the Interset feature structure is corrupt (although the treex file is written correctly).
 ###!!! Due to some other weird bug I'm trying to read .treex (instead of .treex.gz) now.
-SCEN2 = A2A::CopyAtree source_selector='' selector='prague' $(PRE_UD_BLOCKS) HamleDT::Udep $(POST_UD_BLOCKS)
+SCEN2 = A2A::CopyAtree source_selector='' selector='prague' $(PRE_UD_BLOCKS) HamleDT::UdepIT $(POST_UD_BLOCKS) #cambiare UDep per testare le modifiche
 prague_to_ud:
 	$(QTREEX) \
 	    Read::Treex from='!$(DIR1)/{train,dev,test}/*.treex' \

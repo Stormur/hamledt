@@ -4,7 +4,7 @@ UDCODE=la_ittb
 UDNAME=Latin-ITTB
 HARMONIZE=HarmonizeIT
 include ../common.mak
-SRCDIR= /home/flavio/Documenti/UDT/ittb# /home/flavio/Documenti/UDT/13-03-2017_all_resources_all_formats/IT-TB_PML_analytical-tectogrammatical_130317/IT-TB_PML_analytical_130317
+SRCDIR= /home/flavio/Documenti/UDT/ittb-esperimenti#/home/flavio/Documenti/UDT/13-03-2017_all_resources_all_formats/IT-TB_PML_analytical-tectogrammatical_130317/IT-TB_PML_analytical_130317
 
 POST_IMPORTX_BLOCKS = W2W::EstimateNoSpaceAfter
 
