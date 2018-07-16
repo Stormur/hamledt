@@ -1,4 +1,4 @@
-- You have to specify HarmonizeIT under HARMONIZE (default), or the script you otherwise use for PDT-style harmonization
+- You have to specify HarmonizeIT under HARMONIZE (default), or the script you otherwise use for PDT-style harmonization.
 
 - The ln command used in Makefile can function differently in different Linux distributions. If you encounter problems, you may try e.g. 
 		ln -s $(SRCDIR)/train.conll $(IN) #/train.conll
