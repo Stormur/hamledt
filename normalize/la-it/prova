@@ -1,0 +1,6 @@
+treex -Lla \
+    Read::Treex from='!/la-it/treex/01/{train,dev,test}/*.treex' \
+    A2A::CopyAtree source_selector='' selector='prague'  HamleDT::UdepIT   \
+    Write::CoNLLU print_zone_id=0 substitute={treex/01}{conllu} compress=1 \
+    Write::Treex substitute={conllu}{treex/02} compress=0
+#../export_ud.sh la_ittb Latin-ITTB

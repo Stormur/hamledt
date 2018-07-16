@@ -1,0 +1,19 @@
+- You have to specify HarmonizeIT under HARMONIZE (default), or the script you otherwise use for PDT-style harmonization
+
+- The ln command used in Makefile can function differently in different Linux distributions. If you encounter problems, you may try e.g. 
+		ln -s $(SRCDIR)/train.conll $(IN) #/train.conll
+  instead of
+		ln -s $(SRCDIR)/train.conll $(IN)/train.conll
+  
+  You might also need to change authorisations to perform the conversion process, like e.g., fom the la-it folder:
+		sudo chown -R <username> ./data/source
+		sudo chown -R <username> ./data/treex
+		sudo chmod a=rwx /la-it
+ 
+
+- The file common.mak in the normalize folder needs to specify HamleDT::UdepIT immediately before the block prague_to_ud
+-- You need the specific conversion scripts fo ITTB in your Treex installation: HarmonizeIT in /home/<username>/treex/lib/Treex/Block/HamleDT/LA and HarmonizePDTIT, HarmonizePerseusIT and UdepIT in /home/<username>/treex/lib/Treex/Block/HamleDT
+
+
+
+

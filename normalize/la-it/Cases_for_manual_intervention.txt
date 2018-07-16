@@ -1,28 +1,28 @@
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s8/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s8/la (only one member)
 Co-ordination root: sicut
 Children: , prudentia moralium 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached moralium to prudentia
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s12/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s12/la (only one member)
 Co-ordination root: root
 Children: tertio quia . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quia to tertio at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s14/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s14/la (only one member)
 Co-ordination root: root
 Children: ad dicendum quod . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to dicendum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s15/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s15/la (only one member)
 Co-ordination root: root
 Children: ergo peccatum . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached ergo to peccatum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s23/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s23/la (only one member)
 Co-ordination root: sicut
 Children: forma materiae 
 Probable verb ellipsis
@@ -34,13 +34,13 @@ Co-ordination root: aut
 Children: motor mobili , homo vestimento 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s38/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s38/la (only one member)
 Co-ordination root: root
 Children: ad dicendum quod . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to dicendum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s54/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s54/la (only one member)
 Co-ordination root: et
 Children: , secundum facit , fortis fortiter 
 Probable verb ellipsis
@@ -52,13 +52,13 @@ Co-ordination root: ;
 Children: naturae quidem in , potestatis in auctoritatis in 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s73/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s73/la (only one member)
 Co-ordination root: root
 Children: sciendum quod . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to sciendum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s79/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s79/la (only one member)
 Co-ordination root: sed
 Children: sic igitur quia est , ratio per 
 Probable verb ellipsis
@@ -70,25 +70,19 @@ Co-ordination root: et
 Children: abjicere , inducere 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s100/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s100/la (only one member)
 Co-ordination root: vel
 Children: per sicut ut 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached sicut to per
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s100/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s100/la (only one member)
 Co-ordination root: ut
 Children: , et ad 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached ad to et
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s106/la
-Co-ordination root: autem
-Children: sed sunt , pauciores sequuntur 
-Probable verb ellipsis
-Overcrowded node (ellipsis?): reattached pauciores to sequuntur
-
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s109/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s109/la (only one member)
 Co-ordination root: et
 Children: unde fit , similiter forma forma et 
 Probable verb ellipsis
@@ -100,61 +94,53 @@ Co-ordination root: sed
 Children: non tamen bonus simpliciter , magis malus 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s129/la
+W#4: Possibly wrongly relabelled co-ordinator and co-ordination members in sentence dev-s114/la (parenthesis?)
+Co-ordinator: et
+Children: inquantum inquantum 
+
+
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s129/la (only one member)
 Co-ordination root: ,
 Children: et et 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached et to et
 
-W#2: ExD co-ordination should have been handled correctly automatically for sentence dev-s129/la
-Estimated elliptical co-ordination members: 2 of possible 2 to 2
-Co-ordination root: et
-Children: bonum malum 
-
-
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s132/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s132/la (only one member)
 Co-ordination root: root
 Children: ad ergo dicendum quod : 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to dicendum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s142/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s142/la (only one member)
 Co-ordination root: root
 Children: ad dicendum quod . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to dicendum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s152/la
+W#4: Possibly wrongly relabelled co-ordinator and co-ordination members in sentence dev-s147/la (parenthesis?)
+Co-ordinator: ac
+Children:  
+
+
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s152/la (only one member)
 Co-ordination root: root
 Children: prima quidem et . 
 Probable verb ellipsis
-Overcrowded node (ellipsis?): reattached quidem to prima at root
+Overcrowded node (ellipsis?): reattached et to prima at root
 
-W#2: ExD co-ordination should have been handled correctly automatically for sentence dev-s152/la
-Estimated elliptical co-ordination members: 2 of possible 2 to 2
-Co-ordination root: et
-Children: formae materiae constituitur 
-
-
-W#2: ExD co-ordination should have been handled correctly automatically for sentence dev-s156/la
-Estimated elliptical co-ordination members: 2 of possible 2 to 2
-Co-ordination root: et
-Children: materia forma 
-
-
-W#1: Possibly manual disambiguation needed for sentence dev-s161/la
-Estimated elliptical co-ordination members: 2 of possible 2 to 3
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s161/la (only one member)
 Co-ordination root: et
 Children: mirabilia opera , cognoscet 
+Probable verb ellipsis
+Overcrowded node (ellipsis?): reattached opera to mirabilia
 
-
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s177/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s177/la (only one member)
 Co-ordination root: sicut
 Children: sensibilia ad 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached ad to sensibilia
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s178/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s178/la (only one member)
 Co-ordination root: respondeo
 Children: dicendum quod 
 Probable noun ellipsis
@@ -166,19 +152,19 @@ Co-ordination root: et
 Children: esse ab , esse a 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s206/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s206/la (only one member)
 Co-ordination root: vel
 Children: vel sit , utrumque a 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached a to utrumque
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s209/la
-Co-ordination root: nam
-Children: cum participant , vero creaturae virtutem 
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s209/la (only one member)
+Co-ordination root: ,
+Children: nam cum participant vero creaturae virtutem 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached virtutem to creaturae
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s214/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s214/la (only one member)
 Co-ordination root: ut
 Children: , imperfectum ad 
 Probable verb ellipsis
@@ -190,19 +176,19 @@ Co-ordination root: sed
 Children: intellectus enim cognoscit , magis per 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s236/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s236/la (only one member)
 Co-ordination root: root
 Children: ad dicendum quod ; 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to dicendum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s262/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s262/la (only one member)
 Co-ordination root: root
 Children: quaedam vero . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached vero to quaedam at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s281/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s281/la (only one member)
 Co-ordination root: providit
 Children: deus hoc futurum 
 Probable noun ellipsis
@@ -220,7 +206,12 @@ Co-ordination root: et
 Children: ad per 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s294/la
+W#4: Possibly wrongly relabelled co-ordinator and co-ordination members in sentence dev-s292/la (parenthesis?)
+Co-ordinator: et
+Children:  
+
+
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s294/la (only one member)
 Co-ordination root: respondeo
 Children: dicendum quod 
 Probable noun ellipsis
@@ -232,71 +223,81 @@ Co-ordination root: et
 Children: materia forma 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s309/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s309/la (only one member)
 Co-ordination root: et
 Children: consequatur ; e malum cum et 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached cum to malum
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s326/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s326/la (only one member)
 Co-ordination root: root
 Children: ad dicendum quod ; 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to dicendum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s331/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s331/la (only one member)
 Co-ordination root: root
 Children: unde iob : 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached iob to unde at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s336/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s336/la (only one member)
 Co-ordination root: sicut
 Children: , per ad 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached ad to per
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s339/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s339/la (only one member)
 Co-ordination root: root
 Children: ad dicendum quod . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to dicendum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s381/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s381/la (only one member)
 Co-ordination root: sed
-Children: autem est , per sicut 
+Children: est , per sicut 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached sicut to per
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s394/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s394/la (only one member)
 Co-ordination root: root
 Children: ad dicendum quod . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to dicendum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s415/la
+W#4: Possibly wrongly relabelled co-ordinator and co-ordination members in sentence dev-s402/la (parenthesis?)
+Co-ordinator: aut
+Children: vel et : quod 
+
+
+W#4: Possibly wrongly relabelled co-ordinator and co-ordination members in sentence dev-s402/la (parenthesis?)
+Co-ordinator: vel
+Children:  
+
+
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s415/la (only one member)
 Co-ordination root: et
 Children: poenas induci , non propter 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached non to propter
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s436/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s436/la (only one member)
 Co-ordination root: et
 Children: vult alio alia 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached alio to alia
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s444/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s444/la (only one member)
 Co-ordination root: root
 Children: secunda de . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached de to secunda at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s453/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s453/la (only one member)
 Co-ordination root: root
 Children: tamen quia ; 
 Probable verb ellipsis
-Overcrowded node (ellipsis?): reattached quia to tamen at root
+Overcrowded node (ellipsis?): reattached tamen to quia at root
 
 W#2: ExD co-ordination should have been handled correctly automatically for sentence dev-s453/la
 Estimated elliptical co-ordination members: 2 of possible 2 to 2
@@ -310,37 +311,37 @@ Co-ordination root: neque
 Children: neque sicut neque sicut neque sicut neque sicut neque sicut neque sicut neque sicut ; sicut 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s456/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s456/la (only one member)
 Co-ordination root: sicut
 Children: totum in 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached in to totum
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s456/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s456/la (only one member)
 Co-ordination root: sicut
 Children: genus in 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached in to genus
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s456/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s456/la (only one member)
 Co-ordination root: sicut
 Children: forma in 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached in to forma
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s456/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s456/la (only one member)
 Co-ordination root: sicut
 Children: in sicut 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached sicut to in
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s456/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s456/la (only one member)
 Co-ordination root: sicut
 Children: in ut 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached ut to in
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s472/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s472/la (only one member)
 Co-ordination root: root
 Children: ad dicendum quod ; 
 Probable verb ellipsis
@@ -352,25 +353,25 @@ Co-ordination root: et
 Children: sicut , ut , sicut 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s472/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s472/la (only one member)
 Co-ordination root: sicut
 Children: motor in 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached in to motor
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s472/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s472/la (only one member)
 Co-ordination root: ut
 Children: nauta in 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached in to nauta
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s472/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s472/la (only one member)
 Co-ordination root: sicut
 Children: non forma in 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached in to forma
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s473/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s473/la (only one member)
 Co-ordination root: et
 Children: non enim est corruptionis privatio nisi 
 Probable verb ellipsis
@@ -388,25 +389,25 @@ Co-ordination root: aut
 Children: aedificatori grammatico 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s509/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s509/la (only one member)
 Co-ordination root: root
 Children: ad dicendum quod . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to dicendum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s513/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s513/la (only one member)
 Co-ordination root: root
 Children: modo ut ut ; 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached ut to modo at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s513/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s513/la (only one member)
 Co-ordination root: ut
 Children: forma materiae 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached materiae to forma
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s523/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s523/la (only one member)
 Co-ordination root: root
 Children: dicendum quod ; 
 Probable verb ellipsis
@@ -426,8 +427,20 @@ Children: materiae formae
 
 W#2: ExD co-ordination should have been handled correctly automatically for sentence dev-s560/la
 Estimated elliptical co-ordination members: 2 of possible 2 to 2
+Co-ordination root: atque
+Children: et , et 
+
+
+W#2: ExD co-ordination should have been handled correctly automatically for sentence dev-s560/la
+Estimated elliptical co-ordination members: 2 of possible 2 to 2
 Co-ordination root: et
 Children: et mala conciliare insimulare 
+
+
+W#2: ExD co-ordination should have been handled correctly automatically for sentence dev-s560/la
+Estimated elliptical co-ordination members: 2 of possible 2 to 2
+Co-ordination root: et
+Children: impedire , , 
 
 
 W#2: ExD co-ordination should have been handled correctly automatically for sentence dev-s560/la
@@ -442,7 +455,7 @@ Co-ordination root: vel
 Children: vel dependeat vel utrumque ab ; essentia ab 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s563/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s563/la (only one member)
 Co-ordination root: respondeo
 Children: dicendum quod 
 Probable noun ellipsis
@@ -454,17 +467,22 @@ Co-ordination root: et
 Children: materia forma 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s564/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s564/la (only one member)
 Co-ordination root: et
-Children: et ex dicitur cor. urget 
+Children: ex dicitur cor. urget 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached cor. to urget
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s570/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s570/la (only one member)
 Co-ordination root: root
 Children: ad dicendum quod . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to dicendum at root
+
+W#4: Possibly wrongly relabelled co-ordinator and co-ordination members in sentence dev-s572/la (parenthesis?)
+Co-ordinator: aut
+Children: corpori parti 
+
 
 W#1: Possibly manual disambiguation needed for sentence dev-s573/la
 Estimated elliptical co-ordination members: 2 of possible 2 to 4
@@ -472,47 +490,52 @@ Co-ordination root: et
 Children: cognoscit anima et terra terram , sic de 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s574/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s574/la (only one member)
 Co-ordination root: et
 Children: deberet , angelo angelus 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached angelo to angelus
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s590/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s590/la (only one member)
 Co-ordination root: root
 Children: ad dicendum quod : 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to dicendum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s591/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s591/la (only one member)
 Co-ordination root: root
 Children: in vero quia . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quia to in at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s613/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s613/la (only one member)
 Co-ordination root: root
 Children: ergo anima . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached ergo to anima at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s620/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s620/la (only one member)
 Co-ordination root: root
 Children: ad dicendum quod ; 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to dicendum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s636/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s636/la (only one member)
 Co-ordination root: root
 Children: his vero malum . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached vero to malum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s658/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s658/la (only one member)
 Co-ordination root: root
 Children: ergo activa . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached ergo to activa at root
+
+W#4: Possibly wrongly relabelled co-ordinator and co-ordination members in sentence dev-s675/la (parenthesis?)
+Co-ordinator: vel
+Children: phantasmate intellectu 
+
 
 W#1: Possibly manual disambiguation needed for sentence dev-s677/la
 Estimated elliptical co-ordination members: 2 of possible 2 to 3
@@ -520,7 +543,7 @@ Co-ordination root: et
 Children: longior mensura , latior 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s690/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s690/la (only one member)
 Co-ordination root: sicut
 Children: pulchritudo iuventutem 
 Probable verb ellipsis
@@ -532,49 +555,49 @@ Co-ordination root: autem
 Children: non secundum quia 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s711/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s711/la (only one member)
 Co-ordination root: et
 Children: esse , alterum materiam 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached materiam to alterum
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s729/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s729/la (only one member)
 Co-ordination root: quod
 Children: , ita una ab 
 Probable verb ellipsis
-Overcrowded node (ellipsis?): reattached una to ab
+Overcrowded node (ellipsis?): reattached ab to una
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s733/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s733/la (only one member)
 Co-ordination root: et
 Children: est non formae 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached non to formae
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s741/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s741/la (only one member)
 Co-ordination root: sicut
 Children: , nomen secundum 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached secundum to nomen
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s780/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s780/la (only one member)
 Co-ordination root: root
 Children: super quando . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quando to super at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s780/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s780/la (only one member)
 Co-ordination root: sicut
 Children: , forma corporibus 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached corporibus to forma
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s796/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s796/la (only one member)
 Co-ordination root: et
 Children: est , non e 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached non to e
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s800/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s800/la (only one member)
 Co-ordination root: et
 Children: nam generat , oliva olivam 
 Probable verb ellipsis
@@ -586,19 +609,24 @@ Co-ordination root: et
 Children: sic contra peccator 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s812/la
+W#4: Possibly wrongly relabelled co-ordinator and co-ordination members in sentence dev-s808/la (parenthesis?)
+Co-ordinator: ac
+Children:  
+
+
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s812/la (only one member)
 Co-ordination root: autem
 Children: igitur debetur : ei quod 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to ei
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s815/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s815/la (only one member)
 Co-ordination root: root
 Children: ad ergo dicendum quod . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to dicendum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s840/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s840/la (only one member)
 Co-ordination root: sicut
 Children: , ignis in 
 Probable verb ellipsis
@@ -610,20 +638,20 @@ Co-ordination root: et
 Children: inanimata , plantae animalia 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s875/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s875/la (only one member)
 Co-ordination root: root
 Children: de ezech. ; 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached ezech. to de at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s885/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s885/la (only one member)
 Co-ordination root: sicut
 Children: ; lapidi immaterialitatem quamvis 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quamvis to immaterialitatem
 
-W#1: Possibly manual disambiguation needed for sentence dev-s887/la
-Estimated elliptical co-ordination members: 2 of possible 2 to 3
+W#2: ExD co-ordination should have been handled correctly automatically for sentence dev-s887/la
+Estimated elliptical co-ordination members: 2 of possible 2 to 2
 Co-ordination root: sed
 Children: quare et ut : vel 
 
@@ -646,17 +674,23 @@ Co-ordination root: et
 Children: materia et forma , universale 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s897/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s897/la (only one member)
 Co-ordination root: ,
 Children: propter habent plantae vero minimam 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached minimam to plantae
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s899/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s899/la (only one member)
 Co-ordination root: ,
 Children: gubernantur aliae vero in 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached in to aliae
+
+W#2: ExD co-ordination should have been handled correctly automatically for sentence dev-s909/la
+Estimated elliptical co-ordination members: 2 of possible 2 to 2
+Co-ordination root: sed
+Children: non et 
+
 
 W#2: ExD co-ordination should have been handled correctly automatically for sentence dev-s909/la
 Estimated elliptical co-ordination members: 2 of possible 2 to 2
@@ -670,13 +704,13 @@ Co-ordination root: et
 Children: ignis ignem , statua mercurium 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s927/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s927/la (only one member)
 Co-ordination root: root
 Children: ad ergo dicendum quod ; 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached quod to dicendum at root
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s933/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s933/la (only one member)
 Co-ordination root: root
 Children: ad dicendum quod ; 
 Probable verb ellipsis
@@ -694,17 +728,17 @@ Co-ordination root: autem
 Children: modo ratione 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s938/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s938/la (only one member)
 Co-ordination root: sed
-Children: formae autem habent , solum de ex ut 
+Children: formae habent , solum de ex ut 
 Probable verb ellipsis
-Overcrowded node (ellipsis?): reattached ex to de
+Overcrowded node (ellipsis?): reattached ex to solum
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s953/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s953/la (only one member)
 Co-ordination root: autem
 Children: igitur res sequitur , et cum 
 Probable verb ellipsis
-Overcrowded node (ellipsis?): reattached res to et
+Overcrowded node (ellipsis?): reattached cum to et
 
 W#2: ExD co-ordination should have been handled correctly automatically for sentence dev-s966/la
 Estimated elliptical co-ordination members: 2 of possible 2 to 2
@@ -712,7 +746,7 @@ Co-ordination root: et
 Children: materia forma 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s969/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s969/la (only one member)
 Co-ordination root: autem
 Children: nam est ; quae malas et 
 Probable verb ellipsis
@@ -724,7 +758,7 @@ Co-ordination root: et
 Children: , mala fugienda 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s973/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s973/la (only one member)
 Co-ordination root: root
 Children: ad ergo dicendum quod ; 
 Probable verb ellipsis
@@ -736,8 +770,9 @@ Co-ordination root: et
 Children: homo albus , musicum album 
 
 
-W#3: ExD co-ordination should have been handled correctly for sentence dev-s989/la
+W#3: ExD co-ordination should have been handled correctly for sentence dev-s989/la (only one member)
 Co-ordination root: root
 Children: si magis substantiae . 
 Probable verb ellipsis
 Overcrowded node (ellipsis?): reattached magis to substantiae at root
+
